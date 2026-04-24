@@ -1,0 +1,15 @@
+menu:
+  Home: /
+  Archives: /archives/
+  Tags: /tags/
+  Categories: /categories/
+
+widgets:
+  - recent_posts
+  - archive
+  - category
+  - tagcloud
+
+excerpt_link: Read More
+
+fancybox: true
