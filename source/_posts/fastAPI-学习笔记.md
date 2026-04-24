@@ -2,13 +2,13 @@
 title: FastAPI 学习笔记：从入门到项目结构
 date: 2026-04-24
 tags:
+- Python
+- FastAPI
+- Backend
+- API
 
-* Python
-* FastAPI
-* Backend
-* API
-  categories:
-* 后端开发
+
+categories: 后端开发
 ---
 
 # FastAPI 学习笔记：从入门到项目结构
